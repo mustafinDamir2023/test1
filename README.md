@@ -1,4 +1,4 @@
-# testProject
+# test project
 
 ## Описание
 
